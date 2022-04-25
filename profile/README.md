@@ -12,6 +12,3 @@ Shack is built for hostellers and college students. With Shack you can easily ke
 1. Priyansh Patidar (201CS144)
 2. Harsh Ghandwani (201CS120)
 3. Umais Rifah (201CS268)
-
-### Shack is open for contributions✨
-If you're interested in contributing to Shack, mail me [patidarpriyansh936@gmail.com](mailto:patidarpriyansh936@gmail.com) or say Hi on any social platform.
